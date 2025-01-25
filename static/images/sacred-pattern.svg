@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <!-- Pattern definition -->
+    <pattern id="sacredPattern" x="0" y="0" width="200" height="200" patternUnits="userSpaceOnUse">
+      <!-- Base grid of circles -->
+      <g fill="none" stroke="#6272a4" stroke-width="0.5" opacity="0.1">
+        <!-- Center flower of life -->
+        <circle cx="100" cy="100" r="40"/>
+        <circle cx="134.64" cy="100" r="40"/>
+        <circle cx="65.36" cy="100" r="40"/>
+        <circle cx="100" cy="134.64" r="40"/>
+        <circle cx="100" cy="65.36" r="40"/>
+        <circle cx="117.32" cy="117.32" r="40"/>
+        <circle cx="82.68" cy="82.68" r="40"/>
+        
+        <!-- Additional geometric elements -->
+        <path d="M60,60 L140,140 M140,60 L60,140" stroke-width="0.3"/>
+        <rect x="60" y="60" width="80" height="80" transform="rotate(45 100 100)"/>
+      </g>
+      
+      <!-- Intersection points -->
+      <g fill="#bd93f9" opacity="0.1">
+        <circle cx="100" cy="100" r="1"/>
+        <circle cx="134.64" cy="100" r="1"/>
+        <circle cx="65.36" cy="100" r="1"/>
+        <circle cx="100" cy="134.64" r="1"/>
+        <circle cx="100" cy="65.36" r="1"/>
+        <circle cx="117.32" cy="117.32" r="1"/>
+        <circle cx="82.68" cy="82.68" r="1"/>
+      </g>
+    </pattern>
+  </defs>
+  
+  <!-- Apply the pattern -->
+  <rect width="100%" height="100%" fill="url(#sacredPattern)"/>
+</svg>

@@ -1,0 +1,653 @@
+{
+  "menu": {
+     "home": "Hem",
+     "guides": "Guider",
+     "toolkit": "Verktyg",
+     "community": "Gemenskap",
+     "about": "Om"
+  },
+  "navigation": {
+     "previous": "Föregående",
+     "next": "Nästa"
+   },
+  "title": "Sacralize",
+  "tagline": "Utforska och harmonisera med de universella principerna för helig geometri.",
+  "cta": "Börja Lära Dig",
+  "about_title": "Vad är Sacralize?",
+  "about_text": "Sacralize är en plattform för alla som är nyfikna på helig geometri. Lär dig om mönstren, principerna och historien som kopplar samman kosmos med vår vardag.",
+  "features_title": "Upptäck, Lär, Skapa",
+  "feature_1": "Interaktiva Guider",
+  "feature_1_desc": "Steg-för-steg-guider som hjälper dig att förstå helig geometri och dess tillämpningar.",
+  "feature_2": "Mönstergenerator",
+  "feature_2_desc": "Generera och utforska mönster som Livets Blomma, Fibonacci-spiraler och mer.",
+  "feature_3": "Delning i Gemenskap",
+  "feature_3_desc": "Koppla ihop med andra, dela designer och inspirera kreativitet.",
+  "cta_title": "Redo att utforska helig geometri?",
+  "cta_text": "Utforska guider, skapa mönster och anslut till en global community.",
+  "footer": "Designad med Kärlek",
+  "about": {
+    "title": "Om Sacralize",
+    "mission": "Att göra människor medvetna om skönheten och sammanlänkningen i tillvaron och ge dem verktyg att använda dessa principer för allas bästa.",
+    "team_title": "Teamet",
+    "team_description": "Sacralize är skapat av Björn Kenneth Holmström, med hjälp av Claude 3.5 Sonnet och ChatGPT 4o.",
+    "vision_title": "Visionen",
+    "vision_description": "Vi har ännu ingen detaljerad vision, men vi ser fram emot en blomstrande framtid.",
+    "faqs_title": "Vanliga Frågor",
+    "faqs_placeholder": "Vi samlar för närvarande in vanliga frågor. Håll dig uppdaterad!"
+  },
+  "toolkit": {
+    "title": "Verktyg",
+    "overview": "Utforska våra verktyg för att låsa upp potentialen i helig geometri.",
+    "basics_title": "Grunderna i Helig Geometri",
+    "definitions": "Definitioner: Vad är helig geometri?",
+    "history": "Historia: Ursprung och kulturell betydelse",
+    "examples": "Exempel: Kända strukturer inom helig geometri",
+    "tools_title": "Verktygslista",
+    "pattern_generators": "Mönstergeneratorer",
+    "flower_of_life": "Livets Blomma-generator",
+    "fibonacci_spiral": "Fibonacci-spiral-generator",
+    "custom_shapes": "Verktyg för Anpassade Former",
+    "layout_tool": "Layoutdesignverktyg",
+    "layout_tool_desc": "En interaktiv canvas för att designa dina egna layouter inom helig geometri.",
+    "export_feature": "Exportfunktion",
+    "export_desc": "Ladda ner dina mönster och designer som högkvalitativa bilder.",
+    "resources_title": "Resurser",
+    "external_links": "Externa länkar",
+    "books": "Rekommenderade böcker",
+    "research_papers": "Forskningsartiklar",
+    "basics": {
+      "title": "Grunderna i Helig Geometri",
+      "intro_title": "Introduktion",
+      "intro_content": "Helig geometri utforskar de universella mönstren och formerna som ligger till grund för existensen. Utforska dess ursprung, nyckelkoncept och kända exempel för att förstå hur dessa principer förenar konst, natur och andlighet.",
+      "overview_title": "Utforska Grunderna",
+      "what_is_title": "Vad är Helig Geometri?",
+      "what_is_description": "Lär dig om de grundläggande principerna för helig geometri och dess betydelse för att förstå alltings sammankoppling.",
+      "history_title": "Historien om Helig Geometri",
+      "history_description": "Utforska helig geometris ursprung och dess inflytande över kulturer, från antika civilisationer till modern tid.",
+      "examples_title": "Kända Exempel",
+      "examples_description": "Upptäck kända exempel på helig geometri, inklusive Livets Blomma, den Stora Pyramiden i Giza och mer.",
+      "explore": "Utforska",
+      "cta": "Gå vidare till Verktyg",
+      "what_is_sacred_geometry": {
+        "title": "Vad är Helig Geometri?",
+        "intro": {
+          "title": "Introduktion",
+          "description": "Helig geometri avslöjar de matematiska principer som styr den naturliga världen, från mikroskopiska till kosmiska skalan. Dessa universella mönster fungerar som byggstenar för verkligheten och återfinns konsekvent i naturen, konsten, arkitekturen och till och med musiken."
+        },
+        "patterns": {
+          "title": "Mönster i Naturen",
+          "description": "Naturen demonstrerar konsekvent principer för helig geometri genom olika mönster:",
+          "hexagonal": {
+            "title": "Hexagonal Effektivitet",
+            "description": "Honungsbin bygger sina vaxkakor med perfekta hexagoner, vilket skapar den mest effektiva strukturen för att lagra honung med minimal materialåtgång. Samma hexagonala mönster återfinns i basaltkolonnerna på Giant's Causeway och i snöflingor."
+          },
+          "golden_spiral": {
+            "title": "Den Gyllene Spiralen",
+            "description": "Denna logaritmiska spiral, som följer Fibonacci-sekvensen och det gyllene snittet (φ ≈ 1,618), återfinns i nautilusskalet. Denna proportion förekommer i naturen, från bladanordning på växter (phyllotaxis) till spiralarmar i galaxer."
+          },
+          "fractals": {
+            "title": "Fraktalmönster",
+            "description": "Från ormbunksblad till romanesco-broccoli visar fraktaler hur enkla matematiska regler kan skapa komplexa, självliknande mönster som upprepas i olika skala."
+          }
+        },
+        "ancient": {
+          "title": "Forntida Förståelse",
+          "description": "Dessa mönster gick inte obemärkta förbi våra förfäder. Forntida civilisationer världen över kände igen dessa återkommande mönster:",
+          "examples": {
+            "egyptian": "Egyptiska pyramider inkorporerade det gyllene snittet i sina proportioner",
+            "greek": "Grekiska tempel använde precisa geometriska förhållanden för att skapa harmoniska strukturer",
+            "islamic": "Islamisk arkitektur utvecklade komplexa geometriska mönster baserade på matematiska principer",
+            "eastern": "Buddhistiska och hinduiska mandalor visar radiell symmetri och heliga proportioner"
+          }
+        },
+        "modern": {
+          "title": "Moderna Användningsområden",
+          "description": "Idag får dessa forntida principer nytt liv inom:",
+          "examples": {
+            "architecture": "Hållbar arkitektur med biomimetisk design",
+            "graphics": "Datorgrafik och digital konst",
+            "product": "Produktdesign och förpackning",
+            "urban": "Stadsplanering och landskapsarkitektur",
+            "spiritual": "Moderna religiösa och meditationsutrymmen"
+          },
+          "conclusion": "Att förstå helig geometri hjälper oss att känna igen den matematiska ordning som ligger till grund för naturliga fenomen och visar oss hur vi kan tillämpa dessa principer i våra egna kreativa projekt."
+        },
+        "key_concepts": {
+          "title": "Nyckelkoncept",
+          "description": "Helig geometri bygger på grundläggande principer som visar hur enkla former och förhållanden skapar komplexa mönster som återfinns i hela universum.",
+          "fundamental_principles": {
+            "title": "Grundläggande Principer",
+            "unity": {
+              "title": "Enhet",
+              "description": "Cirkeln representerar enhet och helhet, utgångspunkten för alla geometriska former. Den symboliserar oändlighet, fullständighet och existensens cykliska natur.",
+              "examples": "Återfinns i: solen, fullmånen, mandalor och ögats iris.",
+              "mathematical": "En cirkel definieras av punkter som är lika långt från en mittpunkt och skapar perfekt symmetri i alla riktningar."
+            },
+            "duality": {
+              "title": "Dualitet",
+              "description": "Delningen av enheten i två delar representerar de grundläggande paren i naturen: ljus/mörker, manligt/kvinnligt, aktivt/passivt.",
+              "examples": "Uttrycks i: dag- och nattcykler, binära system och magnetiska poler.",
+              "mathematical": "Vesica piscis, som bildas av två överlappande cirklar, utgör grunden för många mönster inom helig geometri."
+            },
+            "trinity": {
+              "title": "Treenighet",
+              "description": "Tre representerar skapelse och tillväxt. Triangeln är den första och enklaste polygonen, som förkroppsligar stabilitet och dynamisk kraft.",
+              "examples": "Syns i: pyramider, molekylstrukturer och religiös symbolik.",
+              "mathematical": "Trianglar är den starkaste strukturella formen och fördelar kraften jämnt över alla sidor."
+            }
+          },
+          "golden_ratio": {
+            "title": "Det Gyllene Snittet (φ)",
+            "description": "Ett speciellt tal som ungefär är lika med 1,618033988749895 och skapar estetiskt tilltalande proportioner som återfinns i naturen och konsten.",
+            "significance": "Det gyllene snittet representerar den perfekta balansen mellan symmetri och asymmetri, tillväxt och begränsning.",
+            "examples": {
+              "title": "Exempel i Naturen",
+              "list": [
+                "Skalmönster i snäckor",
+                "Fröarrangemang i solrosor",
+                "Proportioner i människokroppen",
+                "Spiralarmar i galaxer"
+              ]
+            },
+            "applications": {
+              "title": "Användningar inom Design",
+              "list": [
+                "Klassisk arkitektur",
+                "Logotypdesign",
+                "Fotokomposition",
+                "Proportioner i webbdesign"
+              ]
+            }
+          },
+          "ratios_proportions": {
+            "title": "Heliga Förhållanden och Proportioner",
+            "description": "Utöver det gyllene snittet förekommer flera andra proportioner konsekvent i helig geometri:",
+            "types": {
+              "square_root": {
+                "title": "Kvadratrotproportioner",
+                "description": "√2, √3, √5-förhållanden som återfinns i helig arkitektur och musikalisk harmoni"
+              },
+              "musical": {
+                "title": "Musikaliska Förhållanden",
+                "description": "Enkla heltalsförhållanden (2:3, 3:4, 4:5) som skapar musikaliska intervall och harmoni"
+              },
+              "fibonacci": {
+                "title": "Fibonacci-sekvensen",
+                "description": "1, 1, 2, 3, 5, 8, 13... Varje tal är summan av de två föregående och närmar sig det gyllene snittet"
+              }
+            },
+            "significance": "Dessa proportioner skapar visuell harmoni och resonerar med naturens mönster för tillväxt och organisering.",
+            "modern_use": "Moderna designers och arkitekter använder dessa proportioner för att skapa estetiskt tilltalande och harmoniska kompositioner."
+          }
+        },
+        "practical_applications": {
+          "title": "Praktiska Användningsområden",
+          "description": "Principerna för helig geometri fortsätter att påverka modern design och skapande inom många discipliner.",
+          "architecture": {
+            "title": "Arkitektur & Stadsplanering",
+            "description": "Principerna för helig geometri vägleder skapandet av harmoniska och hållbara utrymmen:",
+            "examples": [
+              "Hållbar byggnadsdesign med naturliga proportioner",
+              "Stadsplanering med heliga geometriska rutnätssystem",
+              "Biophilisk design som integrerar naturliga mönster",
+              "Energieffektiva strukturer baserade på geometriska principer"
+            ]
+          },
+          "digital_design": {
+            "title": "Digital Design & Användargränssnitt",
+            "description": "Moderna digitala gränssnitt drar nytta av principerna för helig geometri:",
+            "examples": [
+              "Webbplatslayouter med proportioner enligt det gyllene snittet",
+              "Appgränssnitt med harmonisk avståndsplacering",
+              "Logotypdesign som inkluderar heliga symboler",
+              "Användarupplevelsemönster baserade på naturliga rörelser"
+            ]
+          },
+          "art_music": {
+            "title": "Konst & Musik",
+            "description": "Kreativa uttryck som förstärks av helig geometri:",
+            "examples": [
+              "Musikkomposition med harmoniska proportioner",
+              "Visuell konst som inkluderar heliga mönster",
+              "Danskoreografi baserad på geometriska former",
+              "Helig geometri i moderna konstinstallationer"
+            ]
+          },
+          "product_design": {
+            "title": "Produktdesign",
+            "description": "Funktionell och estetisk produktutveckling:",
+            "examples": [
+              "Ergonomisk design med naturliga proportioner",
+              "Förpackningsdesign med principer för helig geometri",
+              "Möbeldesign som inkluderar det gyllene snittet",
+              "Produktlogotyper som använder geometrisk harmoni"
+            ]
+          },
+          "conclusion": {
+            "title": "Framåt med Helig Geometri",
+            "description": "Att förstå och tillämpa principerna för helig geometri kan förbättra vilken kreativ eller designprocess som helst och skapa verk som harmoniserar med livets och medvetandets naturliga mönster."
+          }
+        }
+      },
+      "history": {
+        "title": "Historien om Helig Geometri",
+        "introduction": {
+          "title": "Ursprung och Utveckling",
+          "description": "Helig geometris historia sträcker sig över tusentals år, överskrider kulturella gränser och påverkar civilisationer världen över. Från antika megalitiska strukturer till modern arkitektur har dessa universella mönster format människans förståelse av kosmos.",
+          "significance": "Genom historien har helig geometri varit mer än matematiska principer—det har varit en bro mellan de fysiska och andliga världarna, och hjälpt kulturer att förstå och representera skapelsens fundamentala mönster."
+        },
+        "timeline": {
+          "title": "Historisk Tidslinje",
+          "ancient_egypt": {
+            "title": "Forntida Egypten (ca 2700 f.Kr.)",
+            "description": "Den egyptiska civilisationen bemästrade geometriska principer, vilket framgår av:",
+            "achievements": [
+              "Den precisa anpassningen och proportionerna hos de stora pyramiderna",
+              "Användningen av det gyllene snittet i tempelarkitektur",
+              "Utvecklingen av praktisk geometri för markmätning",
+              "Integration av kosmiska anpassningar i arkitektonisk design"
+            ]
+          },
+          "ancient_greece": {
+            "title": "Forntida Grekland (ca 600 f.Kr.)",
+            "description": "Grekiska filosofer och matematiker formaliserade geometriska principer:",
+            "achievements": [
+              "Platons fem regelbundna kroppar (Platoniska kroppar)",
+              "Pythagoras upptäckter om musikens harmoni genom geometri",
+              "Utvecklingen av geometriska bevis och teorier",
+              "Tillämpning i klassisk arkitektur och konst"
+            ]
+          },
+          "islamic_golden_age": {
+            "title": "Den Islamiska Guldåldern (ca 800 e.Kr.)",
+            "description": "Islamiska lärda och konstnärer utvecklade geometriska mönster:",
+            "achievements": [
+              "Utveckling av komplexa geometriska mönster inom konsten",
+              "Matematiska innovationer inom geometri",
+              "Integration av geometri med religiös arkitektur",
+              "Bevarande och vidareutveckling av antik geometrisk kunskap"
+            ]
+          },
+          "renaissance": {
+            "title": "Renässansen (ca 1500 e.Kr.)",
+            "description": "Europeisk återupplivning av klassiska geometriska principer:",
+            "achievements": [
+              "Leonardo da Vincis studier av proportioner",
+              "Integration av helig geometri i religiös konst",
+              "Utvecklingen av perspektiv i måleri",
+              "Arkitektoniska innovationer baserade på geometriska principer"
+            ]
+          }
+        },
+        "cultural_expressions": {
+          "title": "Kulturella Uttryck",
+          "description": "Olika kulturer har tolkat och tillämpat helig geometri på unika sätt:",
+          "egyptian": {
+            "title": "Egyptiska Uttryck",
+            "description": "Fokuserade på kosmisk anpassning och perfekta proportioner i monumentala byggnader."
+          },
+          "islamic": {
+            "title": "Islamiska Uttryck",
+            "description": "Utvecklade intrikata geometriska mönster för att uttrycka gudomlig oändlighet och enhet."
+          },
+          "hindu_buddhist": {
+            "title": "Hinduistiska/Buddhistiska Uttryck",
+            "description": "Skapade mandalor som geometriska representationer av kosmos och medvetande."
+          }
+        },
+        "modern_understanding": {
+          "title": "Modern Förståelse",
+          "description": "Dagens perspektiv på helig geometri kombinerar:",
+          "aspects": [
+            "Vetenskaplig analys av historiska strukturer",
+            "Matematisk förståelse av naturliga mönster",
+            "Tillämpning i modern design och arkitektur",
+            "Integration med digitala verktyg och teknik"
+          ],
+          "significance": "Moderna studier har avslöjat den matematiska precisionen hos antika byggare och den universella karaktären av geometriska principer över kulturer."
+        }
+      },
+      "famous_examples": {
+        "title": "Kända Exempel på Helig Geometri",
+        "introduction": {
+          "title": "Tidlösa Manifestationer",
+          "description": "Genom historien har helig geometri uttryckts i några av mänsklighetens mest anmärkningsvärda arkitektoniska och konstnärliga prestationer. Dessa exempel visar hur universella matematiska principer kan skapa strukturer av bestående skönhet och betydelse."
+        },
+        "great_pyramid": {
+          "title": "Den Stora Pyramiden i Giza",
+          "description": "Byggd omkring 2560 f.Kr. förkroppsligar den stora pyramiden heliga geometriska principer i sin struktur.",
+          "features": {
+            "title": "Viktiga Geometriska Egenskaper",
+            "items": [
+              "Pi (π) -relation mellan höjd och omkrets",
+              "Gyllene snittet (φ) i dess triangulära sidor",
+              "Perfekt kvadratisk bas med anmärkningsvärd precision",
+              "Anpassning till kardinalriktningar"
+            ]
+          },
+          "significance": {
+            "title": "Matematisk Betydelse",
+            "description": "Pyramidens dimensioner visar på en avancerad förståelse av geometri och matematiska konstanter, inklusive:",
+            "measurements": [
+              "Baslängd: 230,4 meter",
+              "Ursprunglig höjd: 146,5 meter",
+              "Sluttningsvinkel: 51,5 grader",
+              "Sidvinkel: 41,2 grader"
+            ]
+          }
+        },
+        "flower_of_life": {
+          "title": "Livets Blomma",
+          "description": "Ett grundläggande mönster som återfinns i många forntida kulturer, Livets Blomma innehåller flera lager av helig geometrisk betydelse.",
+          "construction": {
+            "title": "Mönsterkonstruktion",
+            "steps": [
+              "Börja med en central cirkel",
+              "Lägg till sex identiska cirklar runt den",
+              "Fortsätt mönstret utåt",
+              "Slutför de yttre cirklarna"
+            ]
+          },
+          "meanings": {
+            "title": "Symboliska Betydelser",
+            "items": [
+              "Enhet och sammankoppling",
+              "Skapelsens ritning",
+              "Helig maskulin och feminin",
+              "Grundläggande mönster i rum och tid"
+            ]
+          }
+        },
+        "parthenon": {
+          "title": "Parthenon",
+          "description": "Byggt på 400-talet f.Kr. exemplifierar Parthenon grekernas mästerskap i proportion och harmoni.",
+          "proportions": {
+            "title": "Gyllene Proportioner",
+            "description": "Parthenons dimensioner följer det gyllene snittet på flera sätt:",
+            "examples": [
+              "Fasadens bredd till höjd",
+              "Kolonnavstånd och storlek",
+              "Frontonens proportioner",
+              "Övergripande dimensionella relationer"
+            ]
+          },
+          "influence": {
+            "title": "Arkitektoniskt Inflytande",
+            "description": "Parthenons geometriska principer fortsätter att påverka:",
+            "areas": [
+              "Modern arkitektonisk design",
+              "Förståelse av visuell harmoni",
+              "Studier av proportioner och skala",
+              "Samtida helig arkitektur"
+            ]
+          }
+        },
+        "modern_relevance": {
+          "title": "Modern Relevans",
+          "description": "Dessa antika exempel fortsätter att informera och inspirera samtida design och arkitektur.",
+          "applications": [
+            "Hållbar arkitektonisk design",
+            "Skapande av heliga utrymmen",
+            "Geometrisk konst och skulptur",
+            "Digital design och gränssnitt"
+          ]
+        }
+      }
+    },
+    "tools": {
+      "title": "Verktyg för Helig Geometri",
+      "intro_title": "Utforska Våra Verktyg",
+      "intro_content": "Våra verktyg är designade för att hjälpa dig skapa, utforska och lära dig om helig geometri. Fördjupa dig i mönstergeneratorer, interaktiva designverktyg och mer.",
+      "overview_title": "Tillgängliga Verktyg",
+      "flower_of_life_title": "Livets Blomma Generator",
+      "flower_of_life_description": "Generera det intrikata och vackra mönstret Livets Blomma, en grundläggande del av helig geometri.",
+      "fibonacci_title": "Fibonacci-spiral Generator",
+      "fibonacci_description": "Skapa fantastiska Fibonacci-spiraler och utforska kopplingen mellan matematik och natur.",
+      "custom_shapes_title": "Anpassade Former Verktyg",
+      "custom_shapes_description": "Designa dina egna former och mönster med detta interaktiva och flexibla verktyg.",
+      "sacred_geometry_title": "Heliga Geometrier-verktyg",
+      "sacred_geometry_description": "Verktyg för att utforska Helig Geometri: Vesica Piscis, Polygoner, Gyllene Snittet and Heliga Proportioner.",
+      "explore_tool": "Utforska Verktyg",
+      "cta": "Utforska Ytterligare Resurser",
+      "flower_of_life": {
+        "title": "Livets Blomma Generator",
+        "description": "Skapa och anpassa det heliga mönstret Livets Blomma, en grundläggande symbol inom helig geometri som återfinns i naturen och forntida arkitektur.",
+        
+        "tips": {
+          "customize": {
+            "title": "Anpassa Ditt Mönster",
+            "description": "Justera antalet ringar, storlek och färger för att skapa ditt perfekta Livets Blomma-mönster."
+          },
+          "experiment": {
+            "title": "Experimentera med Guidelinjer",
+            "description": "Slå på och av guidelinjer för att förstå konstruktionen och den underliggande geometrin i mönstret."
+          },
+          "save": {
+            "title": "Spara Din Skapelse",
+            "description": "Ladda ner din design som en SVG-fil för användning i andra projekt eller för utskrift."
+          }
+        },
+
+        "controls": {
+          "rings": "Antal Ringar",
+          "circle_size": "Cirkelstorlek",
+          "line_width": "Linjebredd",
+          "color_scheme": "Färgschema",
+          "options": "Alternativ",
+          "show_guides": "Visa Guidelinjer",
+          "animate": "Animera Mönster",
+          "download": "Ladda ner SVG",
+          
+          "color_schemes": {
+            "default": "Klassisk",
+            "rainbow": "Regnbåge",
+            "golden": "Gyllene"
+          }
+        },
+
+        "learn_more": {
+          "title": "Lär Dig Mer om Livets Blomma",
+          "description": "Livets Blomma är ett av de mest betydelsefulla heliga geometriska mönstren och representerar de grundläggande formerna av rum och tid.",
+          
+          "symbolism": {
+            "title": "Symbolisk Betydelse",
+            "points": [
+              "Representerar skapelsens cykel och kosmisk ordning",
+              "Innehåller alla fem Platoniska kroppar inom sitt mönster",
+              "Symboliserar alltings sammankoppling",
+              "Återfinns i forntida kulturer världen över"
+            ]
+          },
+          
+          "applications": {
+            "title": "Moderna Användningsområden",
+            "points": [
+              "Arkitektonisk design och heliga utrymmen",
+              "Energiläkning och meditation",
+              "Konst och dekorativ design",
+              "Produktförpackning och varumärkesdesign"
+            ]
+          }
+        }
+      },
+      "fibonacci_spiral": {
+        "title": "Fibonacci-spiral Generator",
+        "description": "Skapa och utforska den gyllene spiralen baserad på Fibonacci-sekvensen, ett mönster som återfinns i naturen och konsten.",
+        
+        "controls": {
+          "iterations": "Antal Iterationer",
+          "rotation": "Rotation",
+          "color_scheme": "Färgschema",
+          "options": "Alternativ",
+          "show_numbers": "Visa Fibonacci-nummer",
+          "show_grid": "Visa Rutnät",
+          "animate": "Animera Mönster",
+          "download": "Ladda ner SVG",
+          
+          "color_schemes": {
+            "default": "Klassisk",
+            "nature": "Natur",
+            "golden": "Gyllene"
+          },
+          "show_golden_spiral": "Visa Gyllene Spiral",
+          "show_difference": "Markera Skillnader"
+        },
+
+        "comparison": {
+          "title": "Fibonacci vs Gyllene Spiral",
+          "description": "Även om Fibonacci-spiralen nära approximerar den gyllene spiralen är de inte exakt samma. Den gyllene spiralen är en sann logaritmisk spiral baserad på φ (phi, det gyllene snittet), medan Fibonacci-spiralen är konstruerad av kvartscirklar.",
+          "differences": {
+            "construction": "Fibonacci-spiralen är gjord av kvartscirklar, medan den gyllene spiralen är jämn genomgående",
+            "growth": "Den gyllene spiralen växer med en konstant faktor för varje kvartsvarv (exakt φ), medan Fibonacci-spiralens tillväxttakt varierar något",
+            "approximation": "När talen blir större blir Fibonacci-spiralen en allt bättre approximation av den gyllene spiralen"
+          }
+        },
+
+        "tips": {
+          "iterations": {
+            "title": "Justera Iterationer",
+            "description": "Fler iterationer skapar ett större och mer detaljerat spiralformigt mönster."
+          },
+          "visualization": {
+            "title": "Visualiseringsalternativ",
+            "description": "Slå på och av nummer och rutnät för att förstå de matematiska sambanden."
+          },
+          "interaction": {
+            "title": "Interaktiva Funktioner",
+            "description": "Rotera spiralen och prova olika färgscheman för att utforska mönstret."
+          }
+        },
+
+        "learn_more": {
+          "title": "Om Fibonacci-spiralen",
+          "description": "Fibonacci-spiralen skapas genom att rita cirkulära bågar som förbinder de motsatta hörnen på kvadrater med sidolängder som följer Fibonacci-sekvensen.",
+          
+          "mathematical": {
+            "title": "Matematiska Egenskaper",
+            "points": [
+              "Baserad på Fibonacci-sekvensen: 1, 1, 2, 3, 5, 8, 13...",
+              "Närmar sig den gyllene spiralen",
+              "Varje tal är summan av de två föregående",
+              "Förhållandet mellan på varandra följande tal närmar sig φ (≈ 1,618034)"
+            ]
+          },
+
+          "golden_ratio": {
+            "title": "Koppling till Det Gyllene Snittet",
+            "points": [
+              "Det gyllene snittet (φ) är cirka 1,618034",
+              "På varandra följande Fibonacci-tal närmar sig detta förhållande",
+              "Den gyllene spiralen växer med φ för varje kvartsvarv",
+              "Återfinns i naturen och klassisk arkitektur"
+            ]
+          },
+          
+          "natural": {
+            "title": "Naturliga Förekomster",
+            "points": [
+              "Nautilusskal och spiralgalaxer",
+              "Arrangemang av blad på växter",
+              "Blomblad och fröhuvuden",
+              "Orkanformationer"
+            ]
+          }
+        }
+      },
+      "custom_shapes": {
+        "title": "Verktyg för Anpassade Former",
+        "description": "Skapa och kombinera grundläggande geometriska former för att utforska principerna för helig geometri och skapa dina egna designer.",
+        
+        "tips": {
+          "basics": {
+            "title": "Grundläggande Kontroller",
+            "description": "Klicka för att placera former, dra för att flytta dem. Använd kontrollerna för att justera storlek, rotation och färger."
+          },
+          "layers": {
+            "title": "Arbeta med Lager",
+            "description": "Arrangera dina former med hjälp av lagerkontrollerna. Välj flera former genom att hålla nere Shift samtidigt som du klickar."
+          },
+          "shortcuts": {
+            "title": "Tangentbordsgenvägar",
+            "description": "Använd tangentbordsgenvägar för snabba åtgärder som att duplicera (Ctrl/Cmd + D) och ta bort (Delete) former."
+          }
+        },
+
+        "controls": {
+          "shape_type": "Formtyp",
+          "size": "Storlek",
+          "rotation": "Rotation",
+          "grid": "Rutnätsalternativ",
+          "show_grid": "Visa Rutnät",
+          "fill_color": "Fyllnadsfärg",
+          "stroke_color": "Kantfärg",
+          "stroke_width": "Kantbredd",
+          "layer": "Lagermeny",
+          "bring_forward": "Flytta Framåt",
+          "send_backward": "Flytta Bakåt",
+          "operations": "Formoperationer",
+          "duplicate": "Duplicera",
+          "delete": "Ta bort",
+          "undo": "Ångra",
+          "clear": "Rensa Alla"
+        },
+
+        "shortcuts": {
+          "title": "Tangentbordsgenvägar",
+          "duplicate": "Duplicera markerade",
+          "delete": "Ta bort markerade",
+          "multi_select": "Flera markeringar"
+        },
+
+        "learn_more": {
+          "title": "Förstå Förhållanden mellan Former",
+          "description": "Helig geometri bygger på förhållandena mellan grundläggande former och deras proportioner.",
+          
+          "principles": {
+            "title": "Geometriska Principer",
+            "points": [
+              "Varje komplext mönster börjar med enkla former",
+              "Förhållandet mellan former skapar mening",
+              "Heliga proportioner uppstår genom formkombinationer",
+              "Symmetri och balans vägleder helig geometri"
+            ]
+          },
+          
+          "applications": {
+            "title": "Kreativa Användningsområden",
+            "points": [
+              "Designa personliga mandalor och heliga symboler",
+              "Skapa mönster för meditation och fokus",
+              "Utforska principerna för geometrisk konst",
+              "Utveckla unika heliga geometriska kompositioner"
+            ]
+          }
+        },
+
+        "notifications": {
+          "shape_created": "Form skapad",
+          "shape_deleted": "Form(er) borttagen",
+          "shapes_duplicated": "Form(er) duplicerad",
+          "all_cleared": "Alla former rensades"
+        }
+      }
+    }
+  },
+  "guides": {
+    "title": "Interaktiva Guider",
+    "overview": "Utforska steg-för-steg-guider och avancerade tillämpningar för att fördjupa din förståelse för helig geometri.",
+    "beginners_title": "Nybörjarguider",
+    "understanding_patterns": "Förstå mönster: Grunderna i helig geometri",
+    "visual_tutorials": "Visuella Guider: Steg-för-steg-grafik",
+    "interactive_quizzes": "Interaktiva Quiz: Testa din kunskap",
+    "advanced_title": "Avancerade Tillämpningar",
+    "using_in_art": "Använda Helig Geometri i Konst",
+    "urban_design": "Urban och Arkitektonisk Design",
+    "philosophical_connections": "Filosofiska Kopplingar",
+    "videos_title": "Videotutorials",
+    "videos_desc": "Titta på inbäddade videor för att lära dig visuellt. Dessa tutorials innehåller exempel, steg-för-steg-instruktioner och praktiska tillämpningar av helig geometri.",
+    "video_introduction": "Introduktion till Helig Geometri",
+    "video_patterns": "Tutorials om Mönster",
+    "video_real_world": "Helig Geometri i Den Verkliga Världen"
+  }
+}
+

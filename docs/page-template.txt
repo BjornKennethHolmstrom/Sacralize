@@ -1,0 +1,31 @@
+<!-- Template for new pages (e.g., /toolkit/basics/what-is-sacred-geometry/+page.svelte) -->
+<script lang="ts">
+  import { t } from 'svelte-i18n';
+</script>
+
+<!-- Each page should use prose utilities for consistent content styling -->
+<article class="prose prose-invert max-w-none">
+  <h1>{t('page.title')}</h1>
+  
+  <section>
+    <h2>{t('page.section1.title')}</h2>
+    <p>{t('page.section1.content')}</p>
+  </section>
+  
+  <section>
+    <h2>{t('page.section2.title')}</h2>
+    <p>{t('page.section2.content')}</p>
+  </section>
+  
+  <!-- Add more sections as needed -->
+  
+  <!-- Example of a call-to-action -->
+  <div class="not-prose mt-8">
+    <a 
+      href="/next-section" 
+      class="inline-block px-6 py-3 bg-accent-green text-white rounded-lg hover:bg-accent-pink transition"
+    >
+      {t('page.cta')}
+    </a>
+  </div>
+</article>

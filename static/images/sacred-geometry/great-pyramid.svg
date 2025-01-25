@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#282a36"/>
+  
+  <!-- Grid -->
+  <g stroke="#6272a4" stroke-width="0.5">
+    <path d="M100,350 L700,350" />
+    <path d="M400,50 L400,350" />
+  </g>
+
+  <!-- Pyramid -->
+  <g transform="translate(400, 200)">
+    <!-- Front Face -->
+    <path d="M0,-120 L115,100 L-115,100 Z" 
+          fill="none" stroke="#bd93f9" stroke-width="2"/>
+    
+    <!-- Side Measurements -->
+    <g stroke="#50fa7b" stroke-width="1" stroke-dasharray="4 4">
+      <!-- Height Line -->
+      <line x1="0" y1="-120" x2="0" y2="100"/>
+      <!-- Base Lines -->
+      <line x1="-115" y1="100" x2="115" y2="100"/>
+      <!-- Side Length -->
+      <line x1="0" y1="-120" x2="115" y2="100"/>
+    </g>
+
+    <!-- Angle Markers -->
+    <path d="M0,100 A 30 30 0 0 0 26,85" 
+          fill="none" stroke="#ff79c6" stroke-width="1"/>
+    <text x="20" y="75" fill="#ff79c6" font-size="12">51.5°</text>
+
+    <!-- Golden Ratio Spiral Overlay -->
+    <path d="M0,-120 Q60,-100 80,-20 Q100,60 0,100" 
+          fill="none" stroke="#f1fa8c" stroke-width="2" 
+          stroke-dasharray="4 4"/>
+
+    <!-- Labels -->
+    <text x="0" y="130" fill="#f8f8f2" font-family="sans-serif" text-anchor="middle">
+      Great Pyramid of Giza
+    </text>
+    <text x="-130" y="0" fill="#50fa7b" font-family="sans-serif" text-anchor="end">
+      146.5m
+    </text>
+    <text x="0" y="-130" fill="#50fa7b" font-family="sans-serif" text-anchor="middle">
+      230.4m
+    </text>
+  </g>
+</svg>

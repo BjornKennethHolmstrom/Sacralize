@@ -1,0 +1,654 @@
+{
+  "menu": {
+     "home": "Home",
+     "guides": "Guides",
+     "toolkit": "Toolkit",
+     "community": "Community",
+     "about": "About"
+  },
+  "navigation": {
+     "previous": "Previous",
+     "next": "Next"
+   },
+  "title": "Sacralize",
+  "tagline": "Explore and harmonize with the universal principles of sacred geometry.",
+  "cta": "Start Learning",
+  "about_title": "What is Sacralize?",
+  "about_text": "Sacralize is a platform for anyone curious about sacred geometry. Learn the patterns, principles, and history that connect the cosmos to our daily lives.",
+  "features_title": "Discover, Learn, Create",
+  "feature_1": "Interactive Tutorials",
+  "feature_1_desc": "Step-by-step guides to help you understand sacred geometry and its applications.",
+  "feature_2": "Pattern Generator",
+  "feature_2_desc": "Generate and explore patterns like the Flower of Life, Fibonacci spirals, and more.",
+  "feature_3": "Community Sharing",
+  "feature_3_desc": "Connect with others, share designs, and inspire creativity.",
+  "cta_title": "Ready to explore sacred geometry?",
+  "cta_text": "Dive into tutorials, generate patterns, and connect with a global community.",
+  "footer": "Designed with Love",
+  "about": {
+    "title": "About Sacralize",
+    "mission": "To make people aware of the beauty and interconnectedness of existence and to empower them to use these principles for the benefit of all.",
+    "team_title": "The Team",
+    "team_description": "Sacralize is brought to you by Björn Kenneth Holmström, with the assistance of Claude 3.5 Sonnet and ChatGPT 4o.",
+    "vision_title": "The Vision",
+    "vision_description": "We don’t have a detailed vision yet, but we are looking forward to a prosperous future.",
+    "faqs_title": "Frequently Asked Questions",
+    "faqs_placeholder": "We are currently compiling common questions. Stay tuned!"
+  },
+  "toolkit": {
+    "title": "Toolkit",
+    "overview": "Explore our available tools to unlock the potential of sacred geometry.",
+    "basics_title": "Sacred Geometry Basics",
+    "definitions": "Definitions: What is sacred geometry?",
+    "history": "History: Origins and cultural significance",
+    "examples": "Examples: Famous sacred geometry structures",
+    "tools_title": "Tools List",
+    "pattern_generators": "Pattern Generators",
+    "flower_of_life": "Flower of Life Generator",
+    "fibonacci_spiral": "Fibonacci Spiral Generator",
+    "custom_shapes": "Custom Shapes Tool",
+    "sacred_geometry": "Sacred Geometry Tools",
+    "layout_tool": "Layout Design Tool",
+    "layout_tool_desc": "An interactive canvas for designing your own sacred geometry layouts.",
+    "export_feature": "Export Feature",
+    "export_desc": "Download your patterns and designs as high-quality images.",
+    "resources_title": "Resources",
+    "external_links": "External links",
+    "books": "Recommended books",
+    "research_papers": "Research papers",
+    "basics": {
+      "title": "Basics of Sacred Geometry",
+      "intro_title": "Introduction",
+      "intro_content": "Sacred geometry explores the universal patterns and shapes that form the foundation of existence. Dive into its origins, key concepts, and famous examples to understand how these principles connect art, nature, and spirituality.",
+      "overview_title": "Explore the Basics",
+      "what_is_title": "What is Sacred Geometry?",
+      "what_is_description": "Learn about the foundational principles of sacred geometry and its significance in understanding the interconnectedness of all things.",
+      "history_title": "History of Sacred Geometry",
+      "history_description": "Delve into the origins of sacred geometry and its influence across cultures, from ancient civilizations to modern times.",
+      "examples_title": "Famous Examples",
+      "examples_description": "Discover famous examples of sacred geometry, including the Flower of Life, the Great Pyramid of Giza, and more.",
+      "explore": "Explore",
+      "cta": "Move on to Tools",
+      "what_is_sacred_geometry": {
+        "title": "What is Sacred Geometry?",
+        "intro": {
+          "title": "Introduction",
+          "description": "Sacred geometry reveals the mathematical principles that govern the natural world, from the microscopic to the cosmic scale. These universal patterns serve as the building blocks of reality, appearing consistently throughout nature, art, architecture, and even music."
+        },
+        "patterns": {
+          "title": "Patterns in Nature",
+          "description": "Nature consistently demonstrates sacred geometric principles through various patterns:",
+          "hexagonal": {
+            "title": "Hexagonal Efficiency",
+            "description": "Honeybees construct their combs using perfect hexagons, creating the most efficient structure for storing honey while using minimal materials. This same hexagonal pattern appears in giant's causeway basalt columns and snowflakes."
+          },
+          "golden_spiral": {
+            "title": "The Golden Spiral",
+            "description": "Found in the nautilus shell, this logarithmic spiral follows the Fibonacci sequence and the golden ratio (φ ≈ 1.618). This proportion appears throughout nature, from the arrangement of leaves on plants (phyllotaxis) to the spiral arms of galaxies."
+          },
+          "fractals": {
+            "title": "Fractal Patterns",
+            "description": "From fern fronds to romanesco broccoli, fractals show how simple mathematical rules can create complex, self-similar patterns that repeat at different scales."
+          }
+        },
+        "ancient": {
+          "title": "Ancient Understanding",
+          "description": "These patterns didn't go unnoticed by our ancestors. Ancient civilizations worldwide recognized these recurring designs:",
+          "examples": {
+            "egyptian": "Egyptian pyramids incorporated the golden ratio in their proportions",
+            "greek": "Greek temples used precise geometric ratios to create harmonious structures",
+            "islamic": "Islamic architecture developed complex geometric patterns based on mathematical principles",
+            "eastern": "Buddhist and Hindu mandalas demonstrate radial symmetry and sacred proportions"
+          }
+        },
+        "modern": {
+          "title": "Modern Applications",
+          "description": "Today, these ancient principles find new life in:",
+          "examples": {
+            "architecture": "Sustainable architecture using biomimetic design",
+            "graphics": "Computer graphics and digital art",
+            "product": "Product design and packaging",
+            "urban": "Urban planning and landscape architecture",
+            "spiritual": "Modern religious and meditation spaces"
+          },
+          "conclusion": "Understanding sacred geometry helps us recognize the mathematical order underlying natural phenomena and shows us how to apply these principles in our own creative endeavors."
+        },
+        "key_concepts": {
+          "title": "Key Concepts",
+          "description": "Sacred geometry is built upon fundamental principles that show how simple shapes and ratios create complex patterns found throughout the universe.",
+          "fundamental_principles": {
+            "title": "Fundamental Principles",
+            "unity": {
+              "title": "Unity",
+              "description": "The circle represents unity and wholeness, the starting point of all geometric forms. It symbolizes infinity, completeness, and the cyclical nature of existence.",
+              "examples": "Found in: the sun, full moon, mandalas, and the iris of the eye.",
+              "mathematical": "A circle is defined by points equidistant from a center, creating perfect symmetry in all directions."
+            },
+            "duality": {
+              "title": "Duality",
+              "description": "The division of unity into two parts represents the fundamental pairs found in nature: light/dark, male/female, active/passive.",
+              "examples": "Expressed in: day and night cycles, binary systems, and magnetic poles.",
+              "mathematical": "The vesica piscis, formed by two overlapping circles, creates the foundation for many sacred geometric patterns."
+            },
+            "trinity": {
+              "title": "Trinity",
+              "description": "Three represents creation and growth. The triangle is the first and simplest polygon, embodying stability and dynamic force.",
+              "examples": "Seen in: pyramids, molecular structures, and religious symbolism.",
+              "mathematical": "Triangles are the strongest structural shape, distributing force evenly across all sides."
+            }
+          },
+          "golden_ratio": {
+            "title": "The Golden Ratio (φ)",
+            "description": "A special number approximately equal to 1.618033988749895 that creates aesthetically pleasing proportions found throughout nature and art.",
+            "significance": "The golden ratio represents the perfect balance between symmetry and asymmetry, growth and constraint.",
+            "examples": {
+              "title": "Examples in Nature",
+              "list": [
+                "Shell growth patterns",
+                "Seed arrangements in sunflowers",
+                "Proportions of human body",
+                "Galaxy spiral arms"
+              ]
+            },
+            "applications": {
+              "title": "Applications in Design",
+              "list": [
+                "Classical architecture",
+                "Logo design",
+                "Photography composition",
+                "Web layout proportions"
+              ]
+            }
+          },
+          "ratios_proportions": {
+            "title": "Sacred Ratios and Proportions",
+            "description": "Beyond the golden ratio, several other proportions appear consistently in sacred geometry:",
+            "types": {
+              "square_root": {
+                "title": "Square Root Proportions",
+                "description": "√2, √3, √5 ratios found in sacred architecture and musical harmony"
+              },
+              "musical": {
+                "title": "Musical Ratios",
+                "description": "Simple whole number ratios (2:3, 3:4, 4:5) that create musical intervals and harmony"
+              },
+              "fibonacci": {
+                "title": "Fibonacci Sequence",
+                "description": "1, 1, 2, 3, 5, 8, 13... Each number is the sum of the previous two, approaching the golden ratio"
+              }
+            },
+            "significance": "These ratios create visual harmony and resonate with natural patterns of growth and organization.",
+            "modern_use": "Modern designers and architects use these proportions to create aesthetically pleasing and harmonious compositions."
+          }
+        },
+        "practical_applications": {
+          "title": "Practical Applications",
+          "description": "Sacred geometry's principles continue to influence modern design and creation across multiple disciplines.",
+          "architecture": {
+            "title": "Architecture & Urban Planning",
+            "description": "Sacred geometry principles guide the creation of harmonious and sustainable spaces:",
+            "examples": [
+              "Sustainable building design using natural proportions",
+              "Urban planning with sacred geometry grid systems",
+              "Biophilic design incorporating natural patterns",
+              "Energy-efficient structures based on geometric principles"
+            ]
+          },
+          "digital_design": {
+            "title": "Digital Design & User Interface",
+            "description": "Modern digital interfaces benefit from sacred geometric principles:",
+            "examples": [
+              "Website layouts using golden ratio proportions",
+              "App interfaces with harmonious spacing",
+              "Logo design incorporating sacred symbols",
+              "User experience patterns based on natural movement"
+            ]
+          },
+          "art_music": {
+            "title": "Art & Music",
+            "description": "Creative expressions enhanced by sacred geometry:",
+            "examples": [
+              "Musical composition using harmonic ratios",
+              "Visual art incorporating sacred patterns",
+              "Dance choreography based on geometric forms",
+              "Sacred geometry in contemporary art installations"
+            ]
+          },
+          "product_design": {
+            "title": "Product Design",
+            "description": "Functional and aesthetic product development:",
+            "examples": [
+              "Ergonomic design using natural proportions",
+              "Package design with sacred geometry principles",
+              "Furniture design incorporating golden ratio",
+              "Product logos using geometric harmony"
+            ]
+          },
+          "conclusion": {
+            "title": "Moving Forward with Sacred Geometry",
+            "description": "Understanding and applying sacred geometry principles can enhance any creative or design process, creating work that resonates with the natural patterns of life and consciousness."
+          }
+        }
+      },
+      "history": {
+        "title": "The History of Sacred Geometry",
+        "introduction": {
+          "title": "Origins and Evolution",
+          "description": "Sacred geometry's history spans thousands of years, crossing cultural boundaries and influencing civilizations worldwide. From ancient megalithic structures to modern architecture, these universal patterns have shaped human understanding of the cosmos.",
+          "significance": "Throughout history, sacred geometry has been more than mathematical principles—it has been a bridge between the physical and spiritual realms, helping cultures understand and represent the fundamental patterns of creation."
+        },
+        "timeline": {
+          "title": "Historical Timeline",
+          "ancient_egypt": {
+            "title": "Ancient Egypt (c. 2700 BCE)",
+            "description": "Egyptian civilization mastered geometric principles, as evidenced in:",
+            "achievements": [
+              "The precise alignment and proportions of the Great Pyramids",
+              "The use of the Golden Ratio in temple architecture",
+              "Development of practical geometry for land surveying",
+              "Integration of cosmic alignments in architectural design"
+            ]
+          },
+          "ancient_greece": {
+            "title": "Ancient Greece (c. 600 BCE)",
+            "description": "Greek philosophers and mathematicians formalized geometric principles:",
+            "achievements": [
+              "Plato's five regular solids (Platonic solids)",
+              "Pythagoras's discoveries of musical harmony through geometry",
+              "Development of geometric proofs and theories",
+              "Application in classical architecture and art"
+            ]
+          },
+          "islamic_golden_age": {
+            "title": "Islamic Golden Age (c. 800 CE)",
+            "description": "Islamic scholars and artists advanced geometric patterns:",
+            "achievements": [
+              "Development of complex geometric patterns in art",
+              "Mathematical innovations in geometry",
+              "Integration of geometry with religious architecture",
+              "Preservation and advancement of ancient geometric knowledge"
+            ]
+          },
+          "renaissance": {
+            "title": "Renaissance (c. 1500 CE)",
+            "description": "European revival of classical geometric principles:",
+            "achievements": [
+              "Leonardo da Vinci's studies of proportion",
+              "Integration of sacred geometry in religious art",
+              "Development of perspective in painting",
+              "Architectural innovations based on geometric principles"
+            ]
+          }
+        },
+        "cultural_expressions": {
+          "title": "Cultural Expressions",
+          "description": "Different cultures have interpreted and applied sacred geometry in unique ways:",
+          "egyptian": {
+            "title": "Egyptian Expression",
+            "description": "Focused on cosmic alignment and perfect proportions in monumental architecture."
+          },
+          "islamic": {
+            "title": "Islamic Expression",
+            "description": "Developed intricate geometric patterns to express divine infinity and unity."
+          },
+          "hindu_buddhist": {
+            "title": "Hindu/Buddhist Expression",
+            "description": "Created mandalas as geometric representations of the cosmos and consciousness."
+          }
+        },
+        "modern_understanding": {
+          "title": "Modern Understanding",
+          "description": "Today's perspective on sacred geometry combines:",
+          "aspects": [
+            "Scientific analysis of historical structures",
+            "Mathematical understanding of natural patterns",
+            "Application in contemporary design and architecture",
+            "Integration with digital tools and technology"
+          ],
+          "significance": "Modern studies have revealed the mathematical precision of ancient builders and the universal nature of geometric principles across cultures."
+        }
+      },
+      "famous_examples": {
+        "title": "Famous Examples of Sacred Geometry",
+        "introduction": {
+          "title": "Timeless Manifestations",
+          "description": "Throughout history, sacred geometry has been expressed in some of humanity's most remarkable architectural and artistic achievements. These examples demonstrate how universal mathematical principles can create structures of enduring beauty and significance."
+        },
+        "great_pyramid": {
+          "title": "The Great Pyramid of Giza",
+          "description": "Built around 2560 BCE, the Great Pyramid embodies sacred geometric principles in its very structure.",
+          "features": {
+            "title": "Key Geometric Features",
+            "items": [
+              "Pi (π) relationship between height and perimeter",
+              "Golden ratio (φ) in its triangular faces",
+              "Perfect square base with remarkable precision",
+              "Alignment with cardinal directions"
+            ]
+          },
+          "significance": {
+            "title": "Mathematical Significance",
+            "description": "The pyramid's dimensions demonstrate an advanced understanding of geometry and mathematical constants, including:",
+            "measurements": [
+              "Base length: 230.4 meters",
+              "Original height: 146.5 meters",
+              "Slope angle: 51.5 degrees",
+              "Side angle: 41.2 degrees"
+            ]
+          }
+        },
+        "flower_of_life": {
+          "title": "The Flower of Life",
+          "description": "A fundamental pattern found across numerous ancient cultures, the Flower of Life contains multiple layers of sacred geometric significance.",
+          "construction": {
+            "title": "Pattern Construction",
+            "steps": [
+              "Begin with a central circle",
+              "Add six identical circles around it",
+              "Continue the pattern outward",
+              "Complete the outer circles"
+            ]
+          },
+          "meanings": {
+            "title": "Symbolic Meanings",
+            "items": [
+              "Unity and interconnectedness",
+              "Blueprint of creation",
+              "Sacred masculine and feminine",
+              "Fundamental patterns of space and time"
+            ]
+          }
+        },
+        "parthenon": {
+          "title": "The Parthenon",
+          "description": "Built in the 5th century BCE, the Parthenon exemplifies the Greek mastery of proportion and harmony.",
+          "proportions": {
+            "title": "Golden Proportions",
+            "description": "The Parthenon's dimensions follow the golden ratio in multiple ways:",
+            "examples": [
+              "Facade width to height",
+              "Column spacing and size",
+              "Pediment proportions",
+              "Overall dimensional relationships"
+            ]
+          },
+          "influence": {
+            "title": "Architectural Influence",
+            "description": "The Parthenon's geometric principles continue to influence:",
+            "areas": [
+              "Modern architectural design",
+              "Understanding of visual harmony",
+              "Studies of proportion and scale",
+              "Contemporary sacred architecture"
+            ]
+          }
+        },
+        "modern_relevance": {
+          "title": "Modern Relevance",
+          "description": "These ancient examples continue to inform and inspire contemporary design and architecture.",
+          "applications": [
+            "Sustainable architectural design",
+            "Sacred space creation",
+            "Geometric art and sculpture",
+            "Digital design and interfaces"
+          ]
+        }
+      }
+    },
+    "tools": {
+      "title": "Sacred Geometry Tools",
+      "intro_title": "Explore Our Tools",
+      "intro_content": "Our tools are designed to help you create, explore, and learn about sacred geometry. Dive into pattern generators, interactive design tools, and more.",
+      "overview_title": "Available Tools",
+      "flower_of_life_title": "Flower of Life Generator",
+      "flower_of_life_description": "Generate the intricate and beautiful Flower of Life pattern, a foundational element in sacred geometry.",
+      "fibonacci_title": "Fibonacci Spiral Generator",
+      "fibonacci_description": "Create stunning Fibonacci spirals and explore the connection between mathematics and nature.",
+      "custom_shapes_title": "Custom Shapes Tool",
+      "custom_shapes_description": "Design your own shapes and patterns with this interactive and flexible tool.",
+      "sacred_geometry_title": "Sacred Geometry Tools",
+      "sacred_geometry_description": "Tools for exploring sacred geometry: Vesica Piscis, Polygons, Golden Ratio and Sacred Proportions.",
+      "explore_tool": "Explore Tool",
+      "cta": "Explore Additional Resources",
+      "flower_of_life": {
+        "title": "Flower of Life Generator",
+        "description": "Create and customize the sacred Flower of Life pattern, a fundamental symbol of sacred geometry found throughout nature and ancient architecture.",
+        
+        "tips": {
+          "customize": {
+            "title": "Customize Your Pattern",
+            "description": "Adjust the number of rings, size, and colors to create your perfect Flower of Life pattern."
+          },
+          "experiment": {
+            "title": "Experiment with Guides",
+            "description": "Toggle guide lines to understand the construction and underlying geometry of the pattern."
+          },
+          "save": {
+            "title": "Save Your Creation",
+            "description": "Download your design as an SVG file for use in other projects or for printing."
+          }
+        },
+
+        "controls": {
+          "rings": "Number of Rings",
+          "circle_size": "Circle Size",
+          "line_width": "Line Width",
+          "color_scheme": "Color Scheme",
+          "options": "Options",
+          "show_guides": "Show Guides",
+          "animate": "Animate Pattern",
+          "download": "Download SVG",
+          
+          "color_schemes": {
+            "default": "Classic",
+            "rainbow": "Rainbow",
+            "golden": "Golden"
+          }
+        },
+
+        "learn_more": {
+          "title": "Learn More About the Flower of Life",
+          "description": "The Flower of Life is one of the most significant sacred geometric patterns, representing the fundamental forms of space and time.",
+          
+          "symbolism": {
+            "title": "Symbolic Meaning",
+            "points": [
+              "Represents the cycle of creation and cosmic order",
+              "Contains all five Platonic solids within its pattern",
+              "Symbolizes the interconnectedness of all life",
+              "Found in ancient cultures worldwide"
+            ]
+          },
+          
+          "applications": {
+            "title": "Modern Applications",
+            "points": [
+              "Architectural design and sacred spaces",
+              "Energy healing and meditation",
+              "Art and decorative design",
+              "Product packaging and branding"
+            ]
+          }
+        }
+      },
+      "fibonacci_spiral": {
+        "title": "Fibonacci Spiral Generator",
+        "description": "Create and explore the golden spiral based on the Fibonacci sequence, a pattern found throughout nature and art.",
+        
+        "controls": {
+          "iterations": "Number of Iterations",
+          "rotation": "Rotation",
+          "color_scheme": "Color Scheme",
+          "options": "Options",
+          "show_numbers": "Show Fibonacci Numbers",
+          "show_grid": "Show Grid",
+          "animate": "Animate Pattern",
+          "download": "Download SVG",
+          
+          "color_schemes": {
+            "default": "Classic",
+            "nature": "Nature",
+            "golden": "Golden"
+          },
+          "show_golden_spiral": "Show Golden Spiral",
+          "show_difference": "Highlight Differences"
+        },
+
+        "comparison": {
+          "title": "Fibonacci vs Golden Spiral",
+          "description": "While the Fibonacci spiral closely approximates the golden spiral, they're not exactly the same. The golden spiral is a true logarithmic spiral based on φ (phi, the golden ratio), while the Fibonacci spiral is constructed from quarter-circles.",
+          "differences": {
+            "construction": "The Fibonacci spiral is made of quarter-circles, while the golden spiral is smooth throughout",
+            "growth": "The golden spiral grows by a constant factor for each quarter turn (exactly φ), while the Fibonacci spiral's growth rate varies slightly",
+            "approximation": "As the numbers get larger, the Fibonacci spiral becomes an increasingly better approximation of the golden spiral"
+          }
+        },
+
+        "tips": {
+          "iterations": {
+            "title": "Adjust Iterations",
+            "description": "More iterations create a larger, more detailed spiral pattern."
+          },
+          "visualization": {
+            "title": "Visualization Options",
+            "description": "Toggle numbers and grid to understand the mathematical relationships."
+          },
+          "interaction": {
+            "title": "Interactive Features",
+            "description": "Rotate the spiral and try different color schemes to explore the pattern."
+          }
+        },
+
+        "learn_more": {
+          "title": "About the Fibonacci Spiral",
+          "description": "The Fibonacci spiral is created by drawing circular arcs connecting the opposite corners of squares with sides of lengths following the Fibonacci sequence.",
+          
+          "mathematical": {
+            "title": "Mathematical Properties",
+            "points": [
+              "Based on the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13...",
+              "Approximates the golden spiral",
+              "Each number is the sum of the previous two",
+              "Ratio between consecutive numbers approaches φ (≈ 1.618034)"
+            ]
+          },
+
+          "golden_ratio": {
+            "title": "Connection to the Golden Ratio",
+            "points": [
+              "The golden ratio (φ) is approximately 1.618034",
+              "Consecutive Fibonacci numbers approach this ratio",
+              "The golden spiral grows by φ every quarter turn",
+              "Found throughout nature and classical architecture"
+            ]
+          },
+          
+          "natural": {
+            "title": "Natural Occurrences",
+            "points": [
+              "Nautilus shells and spiral galaxies",
+              "Arrangement of leaves on plants",
+              "Flower petals and seed heads",
+              "Hurricane formations"
+            ]
+          }
+        }
+      },
+      "custom_shapes": {
+        "title": "Custom Shapes Tool",
+        "description": "Create and combine basic geometric shapes to explore sacred geometry principles and create your own designs.",
+        
+        "tips": {
+          "basics": {
+            "title": "Basic Controls",
+            "description": "Click to place shapes, drag to move them. Use the controls to adjust size, rotation, and colors."
+          },
+          "layers": {
+            "title": "Working with Layers",
+            "description": "Arrange your shapes using the layer controls. Select multiple shapes by holding Shift while clicking."
+          },
+          "shortcuts": {
+            "title": "Keyboard Shortcuts",
+            "description": "Use keyboard shortcuts for quick actions like duplicating (Ctrl/Cmd + D) and deleting (Delete) shapes."
+          }
+        },
+
+        "controls": {
+          "shape_type": "Shape Type",
+          "size": "Size",
+          "rotation": "Rotation",
+          "grid": "Grid Options",
+          "show_grid": "Show Grid",
+          "fill_color": "Fill Color",
+          "stroke_color": "Stroke Color",
+          "stroke_width": "Stroke Width",
+          "layer": "Layer Controls",
+          "bring_forward": "Bring Forward",
+          "send_backward": "Send Backward",
+          "operations": "Shape Operations",
+          "duplicate": "Duplicate",
+          "delete": "Delete",
+          "undo": "Undo",
+          "clear": "Clear All"
+        },
+
+        "shortcuts": {
+          "title": "Keyboard Shortcuts",
+          "duplicate": "Duplicate selected",
+          "delete": "Delete selected",
+          "multi_select": "Multiple selection"
+        },
+
+        "learn_more": {
+          "title": "Understanding Shape Relationships",
+          "description": "Sacred geometry is built upon the relationships between basic shapes and their proportions.",
+          
+          "principles": {
+            "title": "Geometric Principles",
+            "points": [
+              "Every complex pattern begins with simple shapes",
+              "The relationship between shapes creates meaning",
+              "Sacred ratios emerge from shape combinations",
+              "Symmetry and balance guide sacred geometry"
+            ]
+          },
+          
+          "applications": {
+            "title": "Creative Applications",
+            "points": [
+              "Design personal mandalas and sacred symbols",
+              "Create patterns for meditation and focus",
+              "Explore geometric art principles",
+              "Develop unique sacred geometry compositions"
+            ]
+          }
+        },
+
+        "notifications": {
+          "shape_created": "Shape created",
+          "shape_deleted": "Shape(s) deleted",
+          "shapes_duplicated": "Shape(s) duplicated",
+          "all_cleared": "All shapes cleared"
+        }
+      }
+    }
+  },
+  "guides": {
+    "title": "Interactive Guides",
+    "overview": "Explore step-by-step guides and advanced applications to deepen your understanding of sacred geometry.",
+    "beginners_title": "Beginner’s Guide",
+    "understanding_patterns": "Understanding Patterns: Basics of sacred geometry",
+    "visual_tutorials": "Visual Tutorials: Step-by-step graphics",
+    "interactive_quizzes": "Interactive Quizzes: Test your knowledge",
+    "advanced_title": "Advanced Applications",
+    "using_in_art": "Using Sacred Geometry in Art",
+    "urban_design": "Urban and Architectural Design",
+    "philosophical_connections": "Philosophical Connections",
+    "videos_title": "Video Tutorials",
+    "videos_desc": "Watch embedded videos to learn visually. These tutorials include examples, step-by-step instructions, and practical applications of sacred geometry.",
+    "video_introduction": "Introduction to Sacred Geometry",
+    "video_patterns": "Tutorials on Patterns",
+    "video_real_world": "Sacred Geometry in the Real World"
+  }
+}
+

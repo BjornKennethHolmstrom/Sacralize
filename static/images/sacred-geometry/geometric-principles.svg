@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+  <!-- Background -->
+  <rect width="800" height="300" fill="#282a36"/>
+  
+  <!-- Unity Section -->
+  <g transform="translate(150, 150)">
+    <!-- Unity Circle -->
+    <circle cx="0" cy="0" r="60" fill="none" stroke="#bd93f9" stroke-width="2"/>
+    <!-- Center Point -->
+    <circle cx="0" cy="0" r="2" fill="#bd93f9"/>
+    <!-- Radius Line -->
+    <line x1="0" y1="0" x2="60" y2="0" stroke="#bd93f9" stroke-width="1" stroke-dasharray="4 4"/>
+    <!-- Label -->
+    <text x="0" y="90" fill="#f8f8f2" font-family="sans-serif" text-anchor="middle">Unity</text>
+  </g>
+
+  <!-- Duality Section -->
+  <g transform="translate(400, 150)">
+    <!-- Vesica Piscis -->
+    <circle cx="-30" cy="0" r="60" fill="none" stroke="#50fa7b" stroke-width="2"/>
+    <circle cx="30" cy="0" r="60" fill="none" stroke="#50fa7b" stroke-width="2"/>
+    <!-- Intersection Points -->
+    <circle cx="0" cy="52" r="2" fill="#50fa7b"/>
+    <circle cx="0" cy="-52" r="2" fill="#50fa7b"/>
+    <!-- Label -->
+    <text x="0" y="90" fill="#f8f8f2" font-family="sans-serif" text-anchor="middle">Duality</text>
+  </g>
+
+  <!-- Trinity Section -->
+  <g transform="translate(650, 150)">
+    <!-- Equilateral Triangle -->
+    <path d="M0,-60 L52,30 L-52,30 Z" fill="none" stroke="#ff79c6" stroke-width="2"/>
+    <!-- Center Point -->
+    <circle cx="0" cy="0" r="2" fill="#ff79c6"/>
+    <!-- Height Line -->
+    <line x1="0" y1="-60" x2="0" y2="30" stroke="#ff79c6" stroke-width="1" stroke-dasharray="4 4"/>
+    <!-- Label -->
+    <text x="0" y="90" fill="#f8f8f2" font-family="sans-serif" text-anchor="middle">Trinity</text>
+  </g>
+</svg>

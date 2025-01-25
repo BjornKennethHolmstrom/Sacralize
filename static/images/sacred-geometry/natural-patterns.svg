@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 800 230"
+   version="1.1"
+   id="svg31"
+   sodipodi:docname="natural-patterns.svg"
+   width="800"
+   height="230"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs31" />
+  <sodipodi:namedview
+     id="namedview31"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.484375"
+     inkscape:cx="308.54737"
+     inkscape:cy="99.705263"
+     inkscape:window-width="2520"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg31" />
+  <!-- Background -->
+  <rect
+     width="800"
+     height="230.3158"
+     fill="#282a36"
+     id="rect1"
+     x="0"
+     y="0"
+     style="stroke-width:1.07312" />
+  <!-- Honeycomb Pattern -->
+  <g
+     transform="translate(150,100)"
+     id="g8">
+    <g
+       fill="none"
+       stroke="#bd93f9"
+       stroke-width="1.5"
+       id="g7">
+      <!-- Center hexagon -->
+      <path
+         d="m 0,-30 26,15 V 15 L 0,30 -26,15 v -30 z"
+         id="path1" />
+      <!-- Surrounding hexagons -->
+      <path
+         d="m 0,-90 26,15 v 30 L 0,-30 -26,-45 v -30 z"
+         id="path2" />
+      <path
+         d="m 52,-60 26,15 v 30 L 52,0 26,-15 v -30 z"
+         id="path3" />
+      <path
+         d="M 52,0 78,15 V 45 L 52,60 26,45 V 15 Z"
+         id="path4" />
+      <path
+         d="M 0,30 26,45 V 75 L 0,90 -26,75 V 45 Z"
+         id="path5" />
+      <path
+         d="m -52,0 26,15 V 45 L -52,60 -78,45 V 15 Z"
+         id="path6" />
+      <path
+         d="m -52,-60 26,15 v 30 L -52,0 -78,-15 v -30 z"
+         id="path7" />
+    </g>
+    <text
+       x="0"
+       y="110"
+       fill="#f8f8f2"
+       font-family="sans-serif"
+       text-anchor="middle"
+       font-size="14px"
+       id="text7">Honeycomb</text>
+  </g>
+  <!-- Nautilus Shell Spiral -->
+  <path
+     d="m 400,156 q 50,0 50,-50 0,-50 -50,-50 -50,0 -50,50 0,50 50,50"
+     fill="none"
+     stroke="#50fa7b"
+     stroke-width="2"
+     id="path8" />
+  <path
+     d="m 400,156 q 30,0 30,-30 0,-30 -30,-30 -30,0 -30,30 0,30 30,30"
+     fill="none"
+     stroke="#50fa7b"
+     stroke-width="2"
+     id="path9" />
+  <path
+     d="m 400,156 q 18,0 18,-18 0,-18 -18,-18 -18,0 -18,18 0,18 18,18"
+     fill="none"
+     stroke="#50fa7b"
+     stroke-width="2"
+     id="path10" />
+  <path
+     d="m 400,156 q 11,0 11,-11 0,-11 -11,-11 -11,0 -11,11 0,11 11,11"
+     fill="none"
+     stroke="#50fa7b"
+     stroke-width="2"
+     id="path11" />
+  <text
+     x="400"
+     y="210"
+     fill="#f8f8f2"
+     font-family="sans-serif"
+     text-anchor="middle"
+     font-size="14px"
+     id="text11">Nautilus Shell</text>
+  <!-- Plant Spiral -->
+  <g
+     fill="#ff79c6"
+     id="g20"
+     transform="translate(636,102)">
+    <circle
+       cx="0"
+       cy="0"
+       r="2"
+       id="circle11" />
+    <circle
+       cx="8"
+       cy="0"
+       r="2"
+       id="circle12" />
+    <circle
+       cx="13"
+       cy="8"
+       r="2"
+       id="circle13" />
+    <circle
+       cx="13"
+       cy="18"
+       r="2"
+       id="circle14" />
+    <circle
+       cx="8"
+       cy="26"
+       r="2"
+       id="circle15" />
+    <circle
+       cx="0"
+       cy="29"
+       r="2"
+       id="circle16" />
+    <circle
+       cx="-8"
+       cy="26"
+       r="2"
+       id="circle17" />
+    <circle
+       cx="-13"
+       cy="18"
+       r="2"
+       id="circle18" />
+    <circle
+       cx="-13"
+       cy="8"
+       r="2"
+       id="circle19" />
+    <circle
+       cx="-8"
+       cy="0"
+       r="2"
+       id="circle20" />
+  </g>
+  <g
+     fill="#ff79c6"
+     id="g30"
+     transform="translate(636,102)">
+    <circle
+       cx="34"
+       cy="0"
+       r="2"
+       id="circle21" />
+    <circle
+       cx="42"
+       cy="0"
+       r="2"
+       id="circle22" />
+    <circle
+       cx="47"
+       cy="8"
+       r="2"
+       id="circle23" />
+    <circle
+       cx="47"
+       cy="18"
+       r="2"
+       id="circle24" />
+    <circle
+       cx="42"
+       cy="26"
+       r="2"
+       id="circle25" />
+    <circle
+       cx="34"
+       cy="29"
+       r="2"
+       id="circle26" />
+    <circle
+       cx="26"
+       cy="26"
+       r="2"
+       id="circle27" />
+    <circle
+       cx="21"
+       cy="18"
+       r="2"
+       id="circle28" />
+    <circle
+       cx="21"
+       cy="8"
+       r="2"
+       id="circle29" />
+    <circle
+       cx="26"
+       cy="0"
+       r="2"
+       id="circle30" />
+  </g>
+  <text
+     x="650"
+     y="210"
+     fill="#f8f8f2"
+     font-family="sans-serif"
+     text-anchor="middle"
+     font-size="14px"
+     id="text30">Plant Spirals</text>
+</svg>

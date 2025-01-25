@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#282a36"/>
+  
+  <!-- Grid Pattern -->
+  <g stroke="#6272a4" stroke-width="0.5">
+    <path d="M0 50 L800 50" />
+    <path d="M0 100 L800 100" />
+    <path d="M0 150 L800 150" />
+    <path d="M0 200 L800 200" />
+    <path d="M0 250 L800 250" />
+    <path d="M0 300 L800 300" />
+    <path d="M0 350 L800 350" />
+    
+    <path d="M100 0 L100 400" />
+    <path d="M200 0 L200 400" />
+    <path d="M300 0 L300 400" />
+    <path d="M400 0 L400 400" />
+    <path d="M500 0 L500 400" />
+    <path d="M600 0 L600 400" />
+    <path d="M700 0 L700 400" />
+  </g>
+
+  <!-- Basic Shapes Section -->
+  <g transform="translate(150, 200)">
+    <!-- Circle -->
+    <circle cx="0" cy="0" r="40" fill="none" stroke="#bd93f9" stroke-width="2"/>
+    <!-- Square -->
+    <rect x="-28.28" y="-28.28" width="56.56" height="56.56" 
+          transform="rotate(45)" 
+          fill="none" stroke="#50fa7b" stroke-width="2"/>
+    <!-- Triangle -->
+    <path d="M0,-46.18 L40,23.09 L-40,23.09 Z" 
+          fill="none" stroke="#ff79c6" stroke-width="2"/>
+  </g>
+
+  <!-- Golden Ratio Spiral Section -->
+  <g transform="translate(400, 200)">
+    <!-- Golden Rectangle Segments -->
+    <rect x="-89" y="-55" width="89" height="55" fill="none" stroke="#ff79c6" stroke-width="1"/>
+    <rect x="-89" y="0" width="55" height="55" fill="none" stroke="#ff79c6" stroke-width="1"/>
+    <rect x="-34" y="0" width="34" height="34" fill="none" stroke="#ff79c6" stroke-width="1"/>
+    <rect x="-34" y="34" width="21" height="21" fill="none" stroke="#ff79c6" stroke-width="1"/>
+    
+    <!-- Golden Spiral -->
+    <path d="M-89,-55 Q-89,0 -34,0 Q-34,34 0,34 Q0,55 -13,55" 
+          fill="none" stroke="#f1fa8c" stroke-width="2"/>
+  </g>
+
+  <!-- Flower of Life Pattern Section -->
+  <g transform="translate(650, 200)">
+    <!-- Central Circle -->
+    <circle cx="0" cy="0" r="25" fill="none" stroke="#bd93f9" stroke-width="1.5"/>
+    
+    <!-- Surrounding Circles -->
+    <g stroke="#bd93f9" stroke-width="1.5" fill="none">
+      <circle cx="43.3" cy="0" r="25"/>
+      <circle cx="21.65" cy="37.5" r="25"/>
+      <circle cx="-21.65" cy="37.5" r="25"/>
+      <circle cx="-43.3" cy="0" r="25"/>
+      <circle cx="-21.65" cy="-37.5" r="25"/>
+      <circle cx="21.65" cy="-37.5" r="25"/>
+    </g>
+  </g>
+
+  <!-- Labels -->
+  <g fill="#f8f8f2" font-family="sans-serif" text-anchor="middle">
+    <text x="150" y="300" font-size="14">Basic Shapes</text>
+    <text x="400" y="300" font-size="14">Golden Ratio</text>
+    <text x="650" y="300" font-size="14">Flower of Life</text>
+  </g>
+</svg>
